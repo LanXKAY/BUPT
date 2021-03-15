@@ -1,6 +1,6 @@
 //
 //  main.c
-//  图书管理系统 first
+//  图书管理系统
 //
 //  Created by LanXKay on 2019/9/11.
 //  Copyright © 2019 LanXKay. All rights reserved.
